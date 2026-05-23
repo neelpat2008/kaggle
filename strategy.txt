@@ -1,2 +1,13 @@
 if status = -1, send fleet plus like 5 or 6
 if status isnt -1, send a fleet equal to the current plus calculated production by the time fleet arrives
+
+
+
+early game
+take all close neutral planets
+
+mid game, make algorithm for optimal attacks, keep in mind the rotation, time to reach, production, etc
+make rotation algo, keep in mind sun at 50,50 w radius 10
+
+late game
+if more than everyone else, dont attck, stay still
