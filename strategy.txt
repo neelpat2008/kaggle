@@ -1,0 +1,2 @@
+if status = -1, send fleet plus like 5 or 6
+if status isnt -1, send a fleet equal to the current plus calculated production by the time fleet arrives
